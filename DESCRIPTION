@@ -2,8 +2,8 @@ Package: plantGrowthTools
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Henry", "Janse van Rensburg", , "hencycjr@gmail.com", role = c("aut", "cre"))
+Description: This package manipulate data tables from output created from ARADEEPOPSIS based on images renamed from barcodes. Users can extract the sample and treatment names based on seperation by "_". The package also allow basic plotting and statistics of growth feedbacks.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
